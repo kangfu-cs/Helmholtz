@@ -2,7 +2,7 @@
 %
 %    This program solves Poisson equation
 %       u_{xx} + u_{yy} + Ku = f(x,y),  a < x < b,  c < y < d.
-%    with Dirichlet boundary condition along x=b, y=c, y=d, and at x=a.
+%    with Dirichlet boundary condition along  x=a, x=b, y=c, y=d.
 %
 %    Computed result:% Get 6th order coefficients for interior points
 %
